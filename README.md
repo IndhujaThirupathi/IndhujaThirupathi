@@ -12,7 +12,7 @@
 
 # 👩‍💻 About Me
 
-I am a passionate Python Developer and BE Computer Science & Engineering graduate with a strong interest in software development, web technologies, and machine learning. I enjoy building innovative solutions that solve real-world problems and continuously improving my technical skills. I have worked on projects such as Personalized Learning Platform, Dairy Farm Management System, and AI-Driven Carbon Footprint & ESG Reporting Platform. I am currently focused on expanding my expertise in Full Stack Development and Artificial Intelligence while seeking opportunities to contribute, learn, and grow as a software professional.
+I am a passionate Python Developer and BE Computer Science & Engineering graduate with a strong interest in software development, web technologies. I enjoy building innovative solutions that solve real-world problems and continuously improving my technical skills. I have worked on projects such as Personalized Learning Platform, Dairy Farm Management System, and AI-Driven Carbon Footprint & ESG Reporting Platform. I am currently focused on expanding my expertise in Full Stack Development and Artificial Intelligence while seeking opportunities to contribute, learn, and grow as a software professional.
 
 # 📂 Projects
 

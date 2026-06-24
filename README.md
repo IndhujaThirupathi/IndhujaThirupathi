@@ -1,3 +1,28 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Indhuja%20T&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20BE%20CSE%20Graduate&descAlignY=60"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+to+Work"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=IndhujaThirupathi&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=IndhujaThirupathi&theme=radical&no-frame=true)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IndhujaThirupathi&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IndhujaThirupathi&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=IndhujaThirupathi&theme=radical)
 <h1 align="center">Hi 👋, I'm Indhuja T</h1>
 <h3 align="center">Python Developer | BE CSE Graduate | Full Stack Enthusiast</h3>
 

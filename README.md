@@ -1,58 +1,32 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Indhuja T</h1>
-<h3 align="center">Python Developer | BE CSE Graduate</h3>
+<h3 align="center">Python Developer | Full Stack Developer | BE CSE Graduate</h3>
 
-🌱 Currently learning Full Stack Development & AI
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=500&lines=Python+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
+</p>
 
-💻 Passionate about Python, Web Development and Machine Learning
+### 🚀 Languages and Tools
 
-📍 Pudukkottai, Tamil Nadu, India
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
+</p>
 
----
+### 📊 GitHub Stats
 
-## 🚀 Skills
+![Stats](https://github-readme-stats.vercel.app/api?username=IndhujaThirupathi&show_icons=true&theme=radical)
 
-Python • HTML • CSS • JavaScript • MySQL • Git • GitHub • Pandas • NumPy
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndhujaThirupathi&layout=compact&theme=radical)
 
----
+### 🏆 GitHub Trophies
 
-## 📂 Projects
+![Trophies](https://github-profile-trophy.vercel.app/?username=IndhujaThirupathi&theme=radical)
 
-### 🎓 Personalized Learning Platform
-* Personalized course recommendations
-* User authentication
-* Progress tracking
+### 🌟 Projects
 
-### 🐄 Dairy Farm Management System
-* Farm activity tracking
-* MySQL integration
-* Responsive web interface
+- Personalized Learning Platform
+- Dairy Farm Management System
+- AI-Driven Carbon Footprint & ESG Reporting Platform
 
-### 🌱 AI-Driven Carbon Footprint & ESG Reporting Platform
-* Carbon footprint calculation
-* ESG analytics
-* Machine Learning predictions
+### 📫 Connect With Me
 
----
-
-## 🏆 Certification
-
-* Machine Learning with Python – Infosys Springboard
-
----
-
-## 📫 Connect With Me
-
-📧 Email: indhuja675@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/indhuja-t-31671b267
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndhujaThirupathi&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndhujaThirupathi&layout=compact)
+📧 indhuja675@gmail.com
